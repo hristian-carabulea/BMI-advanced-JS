@@ -1,4 +1,4 @@
-# BMI-advanced-JS
+# BMI Advanced in JS
 ## Advanced BMI Calculator
 
 ## This repository is for calculating the BMI (Body Mass Index) in Javascript.
