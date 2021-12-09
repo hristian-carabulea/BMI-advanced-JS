@@ -1,5 +1,5 @@
-# BMI Advanced in JS
-## Advanced BMI Calculator
+# BMI Advanced Calculator in JS
+## Advanced BMI Calculator written in Javascript.
 
 ## This repository is for calculating the BMI (Body Mass Index) in Javascript.
 ### 1. There is the course version: appCourseVersion.js.
